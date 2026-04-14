@@ -1,6 +1,6 @@
 cask "clicher" do
-  version "1.0.3"
-  sha256 "8030c509f77135eacc77aceed792363014d873b8d4286446b64d8334f6d70375"
+  version "1.1.0-rc"
+  sha256 "03c6504d3d4b3568ae7930db634ca35bd039c35f1c36ff52d18b6f9211fd231e"
 
   url "https://github.com/naoki-mrmt/Clicher/releases/download/v#{version}/Clicher-#{version}.dmg"
   name "Clicher"
